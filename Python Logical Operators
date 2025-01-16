@@ -1,0 +1,12 @@
+#logical operators
+
+a = 50
+b = 30
+
+print( not False)
+print( not (a>b))
+
+value1 = False
+value2 = True
+print("AND operator:", (a == b) and (a >= b) )
+print("OR operator:", (a<=b) or (a == b))
