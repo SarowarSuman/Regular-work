@@ -1,0 +1,29 @@
+#assignment operators of Python
+
+num = 10
+num = ( num + 5 )
+print("num:",num)
+
+num = 10
+num += 5
+print("num:",num)
+
+num = 10
+num -= 5
+print("num:",num)
+
+num = 10
+num *= 5
+print("num:",num)
+
+num = 10
+num /= 5  #output shows float value
+print("num:",num)
+
+num = 10
+num %= 5   #remainder {%} (vagshesh)
+print("num:",num)
+
+num = 10
+num **= 5  #a^b {**}
+print("num:",num)
