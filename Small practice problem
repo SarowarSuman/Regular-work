@@ -1,3 +1,5 @@
+#all the values given by the user (user input)
+
 #WAP to input 2 num & print their sum
 num = int(input("first number:"))      #input neyar somoy val str hobe tai int a convert korte hobe.
 num2 = int(input("second number:"))
