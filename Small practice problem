@@ -1,0 +1,26 @@
+#WAP to input 2 num & print their sum
+num = int(input("first number:"))      #input neyar somoy val str hobe tai int a convert korte hobe.
+num2 = int(input("second number:"))
+
+print("total = ", num + num2)
+
+#WAP to input side of square & print area
+side = float(input("enter square side:"))
+
+print("area = ", side * side)        #side ** 2
+
+
+#WAP to input 2 float point num & print their{average= (a+b)/2}
+X = float(input("enter 1st value:"))
+Y = float(input("enter 2nd value:"))
+
+print("average = ", (X+Y)/2)
+
+
+#WAP to input 2 int num, a & b. 
+   #print True if it is greater than or equal to b. if not print False.
+
+a = int(input("enter 1st no:"))       #type cast (int/float)
+b = int(input("enter 2nd no:"))
+
+print("result:", a>=b )  
