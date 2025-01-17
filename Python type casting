@@ -42,3 +42,8 @@ sum = a / b
 print(a / b)          #2 / 5.75 => 0.347
 print(type(a))
 print(type(b))
+
+
+a = 3.1416
+a = str(a)           # type cast at string
+print(type(a))
