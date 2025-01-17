@@ -1,0 +1,21 @@
+# input in python(input from user)
+name = input("enter your name: ")
+name2 = input("enter your age: ")
+print("welcome to the world", name)
+print("my age is", name2)
+
+
+int("7")
+val= float(input("enter some value: "))  #type casting
+print(type(val), val)
+
+
+# at python,amra jekono value ke input akare nite pari
+
+name = input("enter your name:")
+age = int(input("enter your age:"))  #int laganor age str val chilo
+marks = float(input("enter your marks:"))
+
+print("welcome", name)
+print("age =", age)
+print("marks =", marks)
