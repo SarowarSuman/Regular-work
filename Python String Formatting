@@ -1,0 +1,11 @@
+#string formatting
+
+num1 = 20
+num2 = 20
+
+username = "suman"
+roll = "5"
+# print("my name is:", username)
+# print("& my class roll is:", roll)         #or below line
+
+print(f"my name is {username} & my class roll is {roll}") 
