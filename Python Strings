@@ -1,0 +1,5 @@
+#string 
+str1 = "This is suman.\twe are creating at this.\n"        # \t = tab
+str2 = 'this is not suman\n'                               # \n = new line
+str3 = "this is suman3"
+print(str1,str2,str3)
